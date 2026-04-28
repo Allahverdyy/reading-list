@@ -8,9 +8,7 @@ Open Library API üzerinden kitap arayıp kişisel okuma listesi oluşturmanı s
 
 ## 🌐 Canlı Demo
 
-**Vercel:** [https://reading-list-abdulsamed.vercel.app](https://reading-list-abdulsamed.vercel.app)
-
-> Link deploy sonrası güncellenecektir.
+**Vercel:** [https://reading-list-phi-red.vercel.app/](https://reading-list-phi-red.vercel.app/)
 
 ---
 
