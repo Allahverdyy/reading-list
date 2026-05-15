@@ -8,7 +8,7 @@ Open Library API üzerinden kitap arayıp kişisel okuma listesi oluşturmanı s
 
 ## 🌐 Canlı Demo
 
-**Vercel:** [https://reading-list-phi-red.vercel.app/](https://reading-list-phi-red.vercel.app/)
+**Netlify:** [https://software-persona-readinglist.netlify.app/](https://software-persona-readinglist.netlify.app/)
 
 ---
 
@@ -167,8 +167,8 @@ Tüm kullanıcı verileri tarayıcının localStorage'ında, `reading-list:books
 - [x] Güncelleme işlemi
 - [x] Silme işlemi
 - [x] Ekran görüntüleri eklendi (3 adet)
-- [ ] GitHub'a public yüklendi
-- [ ] Vercel ile yayına alındı
+- [x] GitHub'a public yüklendi
+- [x] Netlify ile yayına alındı
 
 ---
 
